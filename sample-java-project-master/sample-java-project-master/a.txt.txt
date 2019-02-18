@@ -1,1 +1,7 @@
 testing git ..will update once commit n push is done
+now trying to pull the repo
+
+ok..Done
+
+
+
